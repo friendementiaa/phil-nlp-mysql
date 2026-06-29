@@ -1,16 +1,3 @@
-"""
-02_import.py
-Импорт данных философского NLP-датасета в MySQL.
-
-Требования:
-    pip install mysql-connector-python pandas
-
-Запуск:
-    python 02_import.py
-
-Перед запуском убедитесь, что схема уже создана (01_schema.sql выполнен).
-"""
-
 import json
 import ast
 import os
