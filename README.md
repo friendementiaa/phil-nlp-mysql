@@ -11,7 +11,7 @@
 
 ## Датасет
 
-Датасет `phil_nlp.csv` взят с Kaggle и не включен в репозиторий, потому что файл большой. Перед запуском нужно скачать его отдельно и положить в папку проекта.
+Датасет `phil_nlp.csv` взят с Kaggle: https://www.kaggle.com/code/vanvalkenberg/nlp-what-the-philosopher-said
 
 Ожидаемые колонки:
 
